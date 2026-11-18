@@ -120,11 +120,11 @@ The strongest evidence in this area is not about fathers' bodies but about **acc
 - Finkelhor's preconditions model identifies "overcoming external inhibitions" (access and guardianship) as a necessary condition for abuse.
 - Situational crime prevention research shows that reducing isolated one-to-one access and increasing capable guardianship reduces opportunity (Kaufman et al., 2019; NIJ, 2024; Leclerc, 2026).
 - Offenders describe selecting children with weaker supervision and greater isolation, though the samples are small and convicted (AIC, 2015; Police1, 2008).
-- In a 2025 dissertation, 54.1% of cases involved an offender selected because the guardian trusted them: again, trust and access, not paternal size (CUNY, 2025; **Emerging**).
+- In a 2017 dissertation, 54.1% of cases involved an offender selected because the guardian trusted them: again, trust and access, not paternal size (Colombino, 2017; **Emerging**).
 
 ### 5.2 Family structure is associated with risk (Established as association, Disputed as cause)
 
-Reviews report that living with one parent, having a stepfather in the home, and not living with natural parents for extended periods are associated with elevated CSA risk (AASAS, 2014). CDC lists non-biological caregivers in the home as a risk factor for child maltreatment generally (CDC, 2024).
+Reviews report that living with one parent, having a stepfather in the home, and not living with natural parents for extended periods are associated with elevated CSA risk (Claussen et al., 2013). CDC lists non-biological caregivers in the home as a risk factor for child maltreatment generally (CDC, 2024).
 
 These findings are about **household composition and relatedness**, not body weight, and they are confounded with income, housing, stress, and access. They do not show that a father's physical size protects anyone. They also do not show that single-parent families are unsafe; most are not, and most abuse in single-parent homes is not committed by the absent father's replacement.
 
@@ -217,12 +217,12 @@ A more useful set of questions:
 
 Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 
-- AASAS (2014). *Child Sexual Abuse: A Cursory Review of Risk and Protective Factors.*
+- Claussen, C., Esina, E., & Wells, L. (2013). *Child Sexual Abuse: A Cursory Review of Risk and Protective Factors for Victimization and Perpetration.* Prepared for the Association of Alberta Sexual Assault Services.
 - All Pro Dad (2017). *6 Tactics of Child Predators.* (Popular source; used as an object of study.)
 - Australian Institute of Criminology (2015). *Adult sex offenders in youth-oriented institutions.*
 - CDC (2024). *About Child Sexual Abuse*; *Risk and Protective Factors.*
 - CSA Centre (2021). *The scale and nature of child sexual abuse: Review of evidence* (ONS Table 12b).
-- CUNY (2025). *Preventing Sexual Violence Where It Most Often Occurs* (dissertation).
+- Colombino, N. (2017). *Preventing Sexual Violence Where It Most Often Occurs: An Investigation of the Situational and Structural Components of Child Sexual Abuse in Residential Settings* (doctoral dissertation, City University of New York).
 - Guardian Training Solutions (2023). *Lures of a Child Predator, Pt. 1.* (Practitioner blog; used as an object of study.)
 - Kaufman et al. (2019). Recommendations for preventing CSA in youth-serving organizations.
 - KSNF/KODE (2023). *Child predator's secrets are trending on social media.*

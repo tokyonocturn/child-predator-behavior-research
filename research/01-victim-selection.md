@@ -46,9 +46,9 @@ A caution on interpretation: differences in identified prevalence reflect a mix 
 
 Several large reviews and surveillance systems find associations between household composition and CSA risk:
 
-- Living with one parent rather than two is associated with elevated risk in some studies (AASAS, 2014, reviewing the literature).
-- The presence of a stepfather in the home has been associated with roughly double the risk of victimization for girls in some analyses (AASAS, 2014).
-- Not living with one's natural parents for extended periods is associated with increased risk of victimization by non-biological family members (AASAS, 2014).
+- Living with one parent rather than two is associated with elevated risk in some studies (Claussen et al., 2013, reviewing the literature).
+- The presence of a stepfather in the home has been associated with roughly double the risk of victimization for girls in some analyses (Claussen et al., 2013).
+- Not living with one's natural parents for extended periods is associated with increased risk of victimization by non-biological family members (Claussen et al., 2013).
 - CDC lists "caregivers in the home who are not a biological parent" as a risk factor for child abuse and neglect perpetration, in the context of general maltreatment rather than CSA specifically (CDC, 2024).
 
 These findings are real associations. They are also easy to misread.
@@ -145,7 +145,7 @@ Why the caution:
 3. **Survivorship bias in the questions.** Researchers ask offenders who were caught about the children they abused, not about the children they approached and failed with.
 4. **Victim-blaming risk.** A list of child traits can slide into "that child was asking for it." The correct reading is: *offenders exploit unmet needs and weak guardianship*. The remedy is meeting needs and strengthening guardianship, not changing children.
 
-In a 2025 dissertation study of residential settings, 70.9% of offenders said they "did not know" what made the victim appear vulnerable; among those who did, age (9.1%), lack of supervision (9.1%), and the victim's trust (5.5%) were most cited (CUNY, 2025). The same study found that in 54.1% of cases the offender was selected because the guardian trusted the offender. That is an **Emerging** finding from a single dissertation, but it points in the same direction as the larger literature: **guardian trust is the access mechanism**.
+In a 2017 dissertation study of residential settings, 70.9% of offenders said they "did not know" what made the victim appear vulnerable; among those who did, age (9.1%), lack of supervision (9.1%), and the victim's trust (5.5%) were most cited (Colombino, 2017). The same study found that in 54.1% of cases the offender was selected because the guardian trusted the offender. That is an **Emerging** finding from a single dissertation, but it points in the same direction as the larger literature: **guardian trust is the access mechanism**.
 
 ---
 
@@ -172,12 +172,12 @@ Online-facilitated abuse has no physical location, which is precisely why place-
 
 Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 
-- AASAS (2014). *Child Sexual Abuse: A Cursory Review of Risk and Protective Factors for Victimization and Perpetration.*
+- Claussen, C., Esina, E., & Wells, L. (2013). *Child Sexual Abuse: A Cursory Review of Risk and Protective Factors for Victimization and Perpetration.* Prepared for the Association of Alberta Sexual Assault Services.
 - Assini-Meytin et al. (2025). CSA and boundary-violating behaviors in youth-serving organizations. *Child Maltreatment.*
 - Australian Institute of Criminology (2015). *Adult sex offenders in youth-oriented institutions* (T&I 497).
 - CDC (2024). *About Child Sexual Abuse.*
 - Crime Science (2015). How victim age affects the context and timing of CSA.
-- CUNY (2025). *Preventing Sexual Violence Where It Most Often Occurs* (dissertation).
+- Colombino, N. (2017). *Preventing Sexual Violence Where It Most Often Occurs: An Investigation of the Situational and Structural Components of Child Sexual Abuse in Residential Settings* (doctoral dissertation, City University of New York).
 - Ebberline & Holmberg (2008). *Child Molesters and Children as Witnesses* (Lund University).
 - Gewirtz-Meydan & Finkelhor (2019). Sexual abuse and assault in a large national sample. *Journal of Interpersonal Violence.*
 - Guterman & Lee (2005). The role of fathers in risk for physical child abuse and neglect. *Child Maltreatment.*

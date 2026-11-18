@@ -33,7 +33,7 @@ An evidence-based, public research repository on how and why adults sexually abu
 | [`research/05-statistics.md`](research/05-statistics.md) | Prevalence, reporting and disclosure, offender relationships, settings, online victimization, economic cost, and how to read statistics without being misled |
 | [`research/06-prevention.md`](research/06-prevention.md) | Protective factors, safeguarding, situational prevention, school-based programs, digital safety, disclosure response, and community strategies |
 | [`METHODOLOGY.md`](METHODOLOGY.md) | Search strategy, inclusion criteria, evidence grading, limitations, ethics, and corrections policy |
-| [`BIBLIOGRAPHY.md`](BIBLIOGRAPHY.md) | Annotated bibliography with links to every source cited |
+| [`BIBLIOGRAPHY.md`](BIBLIOGRAPHY.md) | Annotated bibliography with verified DOIs and source links, plus an audit note recording what could not be verified |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute, source standards, review process, and prohibited contributions |
 | [`LICENSE`](LICENSE) | CC BY 4.0 |
 

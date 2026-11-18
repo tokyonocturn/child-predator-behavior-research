@@ -244,7 +244,7 @@ Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 - Mathews et al. (2024). CSA by perpetrator class. *Child Abuse & Neglect.*
 - Mathews et al. (2025). Disclosure and non-disclosure of CSA in Australia. *Child Abuse & Neglect.*
 - NCMEC (2024, 2025, 2026). CyberTipline and sextortion data.
-- NIJ (2022). Prevalence of online sexual offenses against children in the U.S.
+- Finkelhor, D., Turner, H., & Colburn, D. (2022). Prevalence of online sexual offenses against children in the US. *JAMA Network Open, 5*(10), e2234471. Also indexed by NIJ.
 - Pereda et al. (2009). Prevalence of CSA in community and student samples. *Clinical Psychology Review.*
 - Stoltenborgh et al. (2011). A global perspective on CSA. *Child Maltreatment.*
 - UNH CCRC (2023). Online child sexual exploitation and abuse: national survey.
