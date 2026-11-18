@@ -25,7 +25,7 @@ The result is a literature in which credible estimates range from about 1% to ov
 |---|---|---|
 | Stoltenborgh et al. (2011), *Child Maltreatment* | 217 publications, 331 samples, 9.9 million participants | Self-reported CSA 127 per 1,000 overall; 180 per 1,000 girls; 76 per 1,000 boys; informant studies 4 per 1,000 |
 | Pereda et al. (2009), *Clinical Psychology Review* | 65 studies, 22 countries | 19.7% girls; 7.9% boys |
-| Barth et al. (2013), *International Journal of Public Health* | Systematic review and meta-analysis | Wide range across studies: 0–69% for girls, 0–47% for boys, depending on design and definitions |
+| Barth et al. (2013), *International Journal of Public Health* | 55 studies, 24 countries | 8–31% for girls and 3–17% for boys across four abuse types; 9 in 100 girls and 3 in 100 boys reported forced intercourse |
 | *The Lancet* (2025), global analysis | 204 locations, 1990–2023; age-standardised estimates for 2023 | 18.9% of females (95% UI 16.0–25.2) and 14.8% of males (9.5–23.5); wide regional variation (12.2% to 26.8% for females by super-region). The 18.0% and 7.6% figures sometimes attached to this paper are Stoltenborgh et al.'s (2011) |
 
 ### 2.2 Agency estimates

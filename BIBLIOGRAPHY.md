@@ -9,11 +9,11 @@ Every source cited in this repository appears below with a short annotation desc
 ## A. Prevalence, incidence, and epidemiology
 
 **Barth, J., Bermetz, L., Heim, E., Trelle, S., & Tonia, T. (2013). The current prevalence of child sexual abuse worldwide: a systematic review and meta-analysis. *International Journal of Public Health, 58*, 469–483.**
-Systematic review documenting enormous between-study variation (0–69% for girls, 0–47% for boys) and the dependence of estimates on definitions and methods.
-Use for: the claim that prevalence estimates are definition-dependent and should be reported as ranges.
-Caution: cited here via the *Lancet* review because the original is paywalled; the range is a summary of heterogeneity, not a pooled estimate.
+Systematic review of 55 studies from 24 countries: prevalence estimates ranged from 8% to 31% for girls and 3% to 17% for boys across four abuse types, with 9 in 100 girls and 3 in 100 boys reporting forced intercourse.
+Use for: the claim that prevalence estimates are definition- and method-dependent and should be reported as ranges.
+Caution: the abstract was read, but the full text is paywalled, so the moderator analyses behind the ranges could not be inspected.
 Link: https://doi.org/10.1007/s00038-012-0426-1
-Status: unverified. Paywalled full text (Springer). The abstract reports prevalence ranges by region and definition but not the 0 to 69% and 0 to 47% extremes quoted here, which are taken from the Lancet review's summary rather than seen in the original.
+Status: corrected against the publisher's abstract. The 0 to 69% and 0 to 47% extremes previously quoted here are not the paper's published range; they came from another review's summary of heterogeneity. The paper reports 8% to 31% for girls and 3% to 17% for boys across 55 studies from 24 countries, with heterogeneity high in all analyses.
 
 **CDC (2024, updated 2026). About Child Sexual Abuse.**
 Authoritative U.S. summary: at least 1 in 4 girls and 1 in 20 boys experience CSA; about 90% is perpetrated by someone known and trusted; lifetime economic burden at least $9.3 billion (2015).
@@ -41,7 +41,7 @@ Comprehensive U.K. review, including ONS Table 12b on perpetrator relationship f
 Use for: U.K. prevalence and the perpetrator-relationship distribution (father 5.4%, stepfather 6.3%, acquaintance 37.7%, stranger 21.0%).
 Caution: respondents are adults recalling childhood; multiple perpetrators mean percentages exceed 100.
 Link: https://www.csacentre.org.uk/app/uploads/2023/09/Scale-and-nature-review-of-evidence-2021.pdf
-Status: verified in part. Father 5.4%, stepfather 6.3% and acquaintance 37.7% appear in the review text; the stranger figure of 21.0% was not located in the retrieved pages and needs checking against Table 2.
+Status: verified. Father 5.4%, stepfather 6.3%, acquaintance 37.7% and stranger 21.0% for contact abuse all appear in the review's reproduction of ONS (2020) Table 12b, where stranger is 23.1% for male and 20.3% for female respondents and 21.0% overall.
 
 **CSA Centre (2026). The scale and nature of child sexual abuse: Review of evidence (2026 update).**
 Updates official trends through 2024/25 and includes age-specific prevalence estimates from recent global analyses.
@@ -173,14 +173,14 @@ Status: verified and corrected against the monograph PDF. It is the fifth editio
 Status: verified through the §A entry above (Australian CSA prevalence 28.5%, with perpetrator-class breakdown).
 
 **ONS (2020), Table 12b, in CSA Centre (2021).** See §A. Perpetrator-relationship distribution.
-Status: verified through the §A entry above for father (5.4%), stepfather (6.3%) and acquaintance (37.7%); the 21.0% stranger figure is still unconfirmed.
+Status: verified through the §A entry above for father (5.4%), stepfather (6.3%), acquaintance (37.7%) and stranger (21.0%) in ONS (2020) Table 12b.
 
 **Crime Science (2015). How victim age affects the context and timing of child sexual abuse: applying the routine activities approach to the first sexual abuse incident.**
 Offender sample: mean age at first incident 10.45 years; 53% familial first victim; 66% knew the victim for more than a year; 6% stranger-onset.
 Use for: age distribution and the routine-activities framing of access.
 Caution: offender sample; age and relationship patterns may not generalize to undetected offenders.
 Link: https://doi.org/10.1186/s40163-015-0031-8
-Status: verified in part. The abstract supports the two-thirds of incidents occurring with another person nearby, but the 53% familial first-victim and 66% known-for-a-year figures are not in it.
+Status: verified against the open-access full text. Of 100 convicted adult male offenders, 53% reported a familial first victim and 47% a non-familial first victim including 6% stranger-onset, 66% of the 94 with a prior relationship had known the victim for more than a year, and two-thirds of incidents occurred with another person nearby.
 
 **Hatay study (2016). General characteristics of child sexual offenders in Hatay, Turkey. *Eurasian Journal of Medicine, 48*(1).**
 Small clinical series of 48 male adolescents aged 12 to 17 accused of sexual crimes: 47.9% came from broken families and 25% from low socio-economic status families. The authors conclude that boys from broken families lacking father supervision were more likely to commit a sexual offence.
@@ -225,21 +225,21 @@ Meta-analysis: 13.4% sexual recidivism over 4–5 years; 12.7% for child moleste
 Use for: base rates.
 Caution: official recidivism only; underestimates true reoffending.
 Link: https://doi.org/10.1037/0022-006X.66.2.348
-Status: verified in part. Abstract confirms 13.4% sexual recidivism across 61 studies (n = 23,393); the 12.7% child-molester subgroup figure is not in the abstract.
+Status: verified against the paper's results section. Sexual recidivism was 13.4% across 61 studies (n = 23,393) over an average 4 to 5 years: 18.9% for 1,839 rapists and 12.7% for 9,603 child molesters.
 
 **Hanson, R. K., & Morton-Bourgon, K. E. (2004). Predictors of sexual recidivism: An updated meta-analysis. Public Safety Canada.**
 95 studies, 31,216 offenders: 13.7% sexual recidivism over 5–6 years; deviant sexual interest and antisocial orientation are the strongest predictors.
 Use for: base rates and risk-factor structure.
 Caution: 5–6 year average follow-up; longer follow-up yields higher cumulative rates.
 Link: https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2004-02-prdctrs-sxl-rcdvsm-pdtd/index-en.aspx
-Status: verified in part. Abstract confirms 95 studies and more than 31,000 offenders and the primacy of deviant sexual interest and antisocial orientation; the 13.7% rate is in the report body, not the abstract.
+Status: verified against the report body. The 95 studies produced a 13.7% sexual recidivism rate (n = 20,440, 84 studies), and deviant sexual interest and antisocial orientation were the strongest predictors.
 
 **Hanson, R. K., Lee, S. C., & Thornton, D. (2024, published online 2022). Long-term recidivism rates among individuals at high risk to sexually reoffend. *Sexual Abuse*.**
 Reviews 5-, 10-, and 20-year recidivism, noting recent routine samples of 2–8% and the importance of base rates.
 Use for: the claim that risk is heterogeneous and time-dependent.
 Caution: high-risk samples are not representative of all offenders.
 Link: https://doi.org/10.1177/10790632221139166
-Status: verified in part. Abstract confirms 52.1% sexual recidivism at 20 years for the well-above-average subgroup and 74.3% for any violent recidivism; the 2 to 8% routine-sample range was not located.
+Status: verified against the full text. Abstract confirms 52.1% sexual recidivism at 20 years for the well-above-average subgroup and 74.3% for any violent recidivism, and the introduction states that in recent routine samples sexual recidivism rates of 2% to 8% are common.
 
 **Langan, P. A., Schmitt, E. L., & Durose, M. R. (2003). Recidivism of sex offenders released from prison in 1994. U.S. Bureau of Justice Statistics.**
 5.1% of child molesters were rearrested for a new sex crime within three years; 39.4% for any crime.
@@ -341,7 +341,7 @@ Status: verified. Abstract confirms the two-phase model (potentiality and disclo
 Use for: global online prevalence.
 Caution: high heterogeneity; definitions vary across studies.
 Link: https://doi.org/10.1016/S2352-4642(24)00329-8
-Status: unverified. Paywalled full text (Elsevier). None of the five prevalence figures appear in the abstract, and the Childlight report from the same programme reports later, different figures rather than these.
+Status: verified against the published summary. Past-year recall was 8.1% overall (95% CI 4.9 to 13.0), online solicitation 12.5% (10.5 to 14.7), non-consensual taking, sharing and exposure to sexual images and videos 12.6% (9.7 to 16.2), online sexual exploitation 4.7% (2.9 to 7.3) and sexual extortion 3.5% (1.9 to 6.4), from 86 records reporting 123 studies. A correction notice for the paper was issued in March 2025; the figures above are those in the published summary.
 
 **NCMEC (2024). 2024 CyberTipline Report.**
 20.5 million reports (29.2 million incidents); 546,000 online enticement reports (+192%); 26,823 trafficking reports (+55%); nearly 100 financial sextortion reports per day; 36+ teenage boys known to have died by suicide after sextortion.
@@ -390,7 +390,7 @@ N-JOV findings: only 5% of offenders pretended to be teens; 73% of face-to-face 
 Use for: correcting the online-predator stereotype.
 Caution: arrested-offender sample; excludes undetected cases.
 Link: https://doi.org/10.1037/0003-066X.63.2.111
-Status: verified in part. Abstract supports the statutory-rape framing and the rarity of violence; the 73% repeat-encounter figure was not located in the abstract.
+Status: verified against the article text. Of offenders, 5% pretended to be teens, and 73% of victims who had face-to-face sexual encounters with offenders did so more than once; the findings come from 2,576 law enforcement agencies surveyed between October 2001 and July 2002.
 
 **Journal of Adolescent Health (2018). The prevalence of unwanted online sexual exposure and solicitation among youth: a meta-analysis.**
 31 samples (37,649 participants) for exposure: mean 20.3%; 9 samples (18,272) for solicitation: 11.5%; rates have declined over time.
@@ -553,7 +553,7 @@ Reviews prevalence estimates (1–5% general population; 27–70% among child-vi
 Use for: the prevalence range and measurement caveats.
 Caution: review; estimates depend on assessment method.
 Link: https://doi.org/10.5964/sotrap.14917
-Status: verified in part. Abstract confirms the review of assessment methods and their limitations; the 1 to 5% and 27 to 70% ranges were not located in it.
+Status: verified against the open-access full text. Prevalence of pedophilia in general-population samples is given as 1% to 5% (Bártová et al., 2021; Dombert et al., 2016; Joyal et al., 2015; Santtila et al., 2015; Winters et al., 2023), and among individuals who have offended against a child as 27% to 70% (Schmidt et al., 2013; Seto & Lalumière, 2001; Wilson et al., 2011).
 
 **Childlight (2026). Into the Light Index: Data Update on Global Technology-Facilitated Child Sexual Exploitation and Abuse.**
 Global survey estimates: 26.6% childhood online solicitation and 6.7% past-year online solicitation, 7.3% past-year unwanted exposure to sexual content, and 9.1% childhood online sexual extortion.
@@ -590,10 +590,10 @@ These resources are for readers in the United States. Outside the U.S., contact 
 
 **Coverage and results.** All 79 entries now carry a status line, and the four counts below are computed from those lines rather than estimated.
 
-- **49 verified.** Every figure or finding quoted in the annotation was located in the source text.
-- **12 verified in part.** Some quoted figures were located and some were not; each status line names which is which.
-- **9 corrected.** The annotation was wrong and has been rewritten to match the source.
-- **9 unverified.** The source could not be checked, and each status line gives the concrete reason: paywalled full text, an abstract that omits the results figures, a book that was not consulted, or a record that could not be located at all.
+- **57 verified.** Every figure or finding quoted in the annotation was located in the source text.
+- **5 verified in part.** Some quoted figures were located and some were not; each status line names which is which.
+- **10 corrected.** The annotation was wrong and has been rewritten to match the source.
+- **7 unverified.** The source could not be checked, and each status line gives the concrete reason: paywalled full text, an abstract that omits the results figures, a book that was not consulted, or a record that could not be located at all.
 
 **Corrections made during the audit.**
 
@@ -614,7 +614,8 @@ These resources are for readers in the United States. Outside the U.S., contact 
 14. **The CSEM meta-analysis was listed as unlocatable.** It exists and is open access: Baskurt, Babchishin, Hilkes and Seto (2025), *Aggression and Violent Behavior*, 85, 102080. Its sample and figures match the entry exactly.
 15. **Ward and Keenan's entry listed three of the five implicit theories.** All five are now named: children as sexual beings, nature of harm, entitlement, dangerous world and uncontrollability.
 16. **The Cortoni entry cited only the underlying studies.** The 2022 review is Augarde and Rydon-Grange, and its own text states the 5% to 20% range.
-17. **The corrected figures were propagated.** Entries 11 to 16 changed facts that the research papers also relied on. `research/01-victim-selection.md` now describes the Hatay sample as 48 male adolescents aged 12 to 17 with 47.9% from broken families, and no longer uses a 91.7% acquaintance figure. `research/05-statistics.md` gives the Lancet's own 18.9% and 14.8% estimates and attributes 18.0% and 7.6% to Stoltenborgh. `research/02-offender-psychology.md` cites Baskurt et al. (2025). The Lanning references now say fifth edition. No entry status changed in this pass, so the counts above are unchanged.
+17. **The corrected figures were propagated.** Entries 11 to 16 changed facts that the research papers also relied on. `research/01-victim-selection.md` now describes the Hatay sample as 48 male adolescents aged 12 to 17 with 47.9% from broken families, and no longer uses a 91.7% acquaintance figure. `research/05-statistics.md` gives the Lancet's own 18.9% and 14.8% estimates and attributes 18.0% and 7.6% to Stoltenborgh. `research/02-offender-psychology.md` cites Baskurt et al. (2025). The Lanning references now say fifth edition. No entry status changed in that pass, so the counts were unchanged at the time.
+18. **Every figure the papers assert was traced to an accessible copy of its source.** The Fry et al. figures were the known gap. The published summary confirms past-year OCSEA at 8.1% (95% CI 4.9 to 13.0), online solicitation at 12.5%, image-based abuse at 12.6%, exploitation at 4.7% and extortion at 3.5%, from 86 records reporting 123 studies, so `research/03` and `research/05` keep them. Barth et al. was wrong: the paper publishes 8% to 31% for girls and 3% to 17% for boys, not the 0 to 69% and 0 to 47% previously given, and `research/05` now carries the published ranges. Nine entries moved out of partial or unverified: CSA Centre 2021 (21.0% stranger in ONS Table 12b), Crime Science 2015 (53%, 47%, 6% and 66%), Hanson and Bussière (12.7% for 9,603 child molesters), Hanson and Morton-Bourgon (13.7%), Hanson, Lee and Thornton (2% to 8% in routine samples), Wolak et al. (5% and 73%), SOTRAP (1% to 5% and 27% to 70%) and Fry et al. The README and `research/02-offender-psychology.md` no longer say that roughly half of people who abuse children are not pedophilic, a figure no accessible source states; both now give the verified 27% to 70% range. Counts changed to 57 verified, 5 in part, 10 corrected and 7 unverified.
 
 **The two flagged mismatches, resolved.**
 
@@ -623,14 +624,14 @@ These resources are for readers in the United States. Outside the U.S., contact 
 
 **Other figures confirmed against full text, not just abstracts.** AASAS/Claussen 2013 (one-parent household risk, stepfather presence and risk for girls, non-biological caregivers), AIC 2014 (213 offenders, 55% non-biological and 45% biological fathers, negligible differences), Colombino 2017 (54.1% and 70.9%), CHILD USA 2024 (over 70% not disclosing within five years, about 1 in 5 never disclosing, average delay around 20 years, DOJ 86%), and CSA Centre 2021 perpetrator-relationship shares.
 
-**What remains unverified, and why.** Nine entries, each with a barrier that is a fact about access rather than an unchecked assumption.
+**What remains unverified, and why.** Seven entries, each with a barrier that is a fact about access rather than an unchecked assumption.
 
-- **Paywalled journal full text whose abstract omits the results:** Barth (Springer), Mann (SAGE), Soldino, Fry and Little (Elsevier). In each case the abstract was read and the specific figures are not in it.
-- **Secondary citation:** the Blanchard and Schaefer references, which are cited through Seto and the SOTRAP review rather than consulted, and whose "roughly half" figure the SOTRAP text does not state.
-- **Books not consulted:** Finkelhor (1984) and the two Seto (2018) entries.
+- **Paywalled journal full text whose abstract omits the results:** Mann (SAGE), Soldino and Little (Elsevier). In each case the abstract was read and the specific findings are not in it, and no paper in this repository makes a numeric claim from any of the three.
+- **Secondary citation:** the Blanchard and Schaefer references, cited through Seto and the SOTRAP review rather than consulted. The SOTRAP text gives 27% to 70% pedophilic interest among child-victim offenders but does not state that roughly half are not pedophilic, so nothing here repeats that claim.
+- **Books not consulted:** Finkelhor (1984) and the two Seto (2018) entries. No statistic in the papers depends on them.
 
 No government, agency, charity or open-access document cited in this file remains unverified. Where a figure could be checked in a free text, it was: CDC, WHO, UNICEF, RAINN, NCMEC, CSA Centre, the ONS table as reproduced by the CSA Centre, Childlight, OJP/NCMEC, the Lund University thesis, the SOTRAP review, and the open-access meta-analysis.
 
-**Link check.** Re-run after these edits with a repository-wide checker over `git ls-files "*.md"`: 11 Markdown files scanned, 40 relative file links and 0 in-page anchor links checked, **0 broken**. The checker resolves every relative target on disk. Bare URLs in `Link:` lines are not fetched by it; those were requested one at a time during the resolution pass, which is how the entries now carry resolving DOIs or free full-text links, and why the nine listed above are the ones that could not be read.
+**Link check.** Re-run after these edits with a repository-wide checker over `git ls-files "*.md"`: 11 Markdown files scanned, 40 relative file links and 0 in-page anchor links checked, **0 broken**. The checker resolves every relative target on disk. Bare URLs in `Link:` lines are not fetched by it; those were requested one at a time during the resolution pass, which is how the entries now carry resolving DOIs or free full-text links, and why the seven listed above are the ones that could not be read.
 
 If you find an error, please open an issue with the correct citation and a link (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
