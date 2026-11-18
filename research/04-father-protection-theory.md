@@ -226,7 +226,7 @@ Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 - Guardian Training Solutions (2023). *Lures of a Child Predator, Pt. 1.* (Practitioner blog; used as an object of study.)
 - Kaufman et al. (2019). Recommendations for preventing CSA in youth-serving organizations.
 - KSNF/KODE (2023). *Child predator's secrets are trending on social media.*
-- Lanning (2010). *Child Molesters: A Behavioral Analysis.*
+- Lanning (2010). *Child Molesters: A Behavioral Analysis* (5th ed.).
 - Mathews et al. (2024). CSA by different classes and types of perpetrator.
 - NIJ (2024). *Advancing situational and developmental approaches to prevent sexual violence.*
 - Podpage/Keep Kids Safe (2025). *Involved Dads: A Predator's Worst Fear* (podcast; used as an object of study).

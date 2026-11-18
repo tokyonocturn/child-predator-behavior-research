@@ -58,7 +58,7 @@ These findings are real associations. They are also easy to misread.
 1. **They do not show that single-parent or stepfamilies cause abuse.** Household composition is confounded with income, housing instability, parental stress, social isolation, child-care arrangements, and the number of unrelated adults passing through the home. Studies rarely isolate the household variable from these.
 2. **They do not identify a "type" of child who is targeted.** The mechanism is more plausibly about *access and guardianship*: a non-biological adult in the home has both opportunity and, in some cases, weaker long-term investment in the child's protection. That is a statement about the adult's position, not the child's worth or the mother's competence.
 3. **They do not support stigmatizing single mothers.** Most single-parent households are safe. Most stepfathers do not abuse. A risk factor with a modest effect size is not a prediction about a household.
-4. **Two-parent households are not protective by definition.** In the Australian offender sample above, 53% of first victims were familial; in a small Turkish clinical sample, 52.1% of victims lived with both parents (Hatay study, 2016). Abuse occurs inside intact families, and fathers are themselves perpetrators in a meaningful share of cases.
+4. **Two-parent households are not protective by definition.** In the Australian offender sample above, 53% of first victims were familial. In U.K. national data on contact abuse, fathers (5.4%) and stepfathers (6.3%) are documented perpetrator categories (ONS, 2020, Table 12b, in CSA Centre, 2021). Abuse occurs inside intact families, and fathers are themselves perpetrators in a meaningful share of cases.
 
 ### A note on "father absence"
 
@@ -124,7 +124,7 @@ The Australian Child Maltreatment Study found a 28.5% lifetime CSA prevalence, w
 
 ### Small clinical and offender samples
 
-- A Turkish clinical sample of 48 offenders found 91.7% knew their victims (Hatay study, 2016). Small and non-representative, but consistent with the larger pattern.
+- A Turkish series of 48 male adolescents aged 12 to 17 accused of sexual crimes found that 47.9% came from broken families and 25% from low socio-economic status families, and its authors concluded that boys from broken families lacking father supervision were more likely to commit a sexual offence (Hatay study, 2016). The study describes offenders' own family backgrounds, not how victims were selected, and it is small and non-representative.
 - In an Australian sample of incarcerated offenders who offended in youth-serving organizations, 53% reported a familial first victim and 47% a non-familial first victim, including 6% stranger-onset; 66% of those with a prior relationship had known the victim for more than a year (Crime Science, 2015).
 
 **Synthesis:** the "known vs. stranger" binary is less useful than a continuum of **access roles**: family, family-adjacent, institutional, recreational, digital, and stranger. Prevention should map the access roles in a child's life, not rank strangers against relatives.
@@ -151,7 +151,7 @@ In a 2017 dissertation study of residential settings, 70.9% of offenders said th
 
 ## 8. Settings and locations
 
-Contact abuse occurs most often in private residential settings (the child's home, the offender's home, or another residence) rather than in public spaces. Lanning (2010) notes that offenders tend to offend in their own home or close to it, and the Swedish modus-operandi research reached the same conclusion for non-familial offenders (Ebberline & Holmberg, 2008). Youth-serving organizations, schools, sports, religious institutions, and residential care are also documented settings; a national U.S. survey estimated that 3.75% of adults experienced CSA in a youth-serving organization (Assini-Meytin et al., 2025).
+Contact abuse occurs most often in private residential settings (the child's home, the offender's home, or another residence) rather than in public spaces. Lanning (2010) notes that offenders tend to offend in their own home or close to it, and the Swedish modus-operandi research reached the same conclusion: across 70 cases committed by 26 non-familial offenders, the mean distance from the offender's home base was 5.8 km, and 31 of the 70 offences took place in the offender's own home (Ebberline & Holmberg, 2008). Youth-serving organizations, schools, sports, religious institutions, and residential care are also documented settings; a national U.S. survey estimated that 3.75% of adults experienced CSA in a youth-serving organization (Assini-Meytin et al., 2025).
 
 Online-facilitated abuse has no physical location, which is precisely why place-based prevention is insufficient. See [`03-grooming.md`](03-grooming.md) and [`05-statistics.md`](05-statistics.md).
 
@@ -181,7 +181,7 @@ Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 - Ebberline & Holmberg (2008). *Child Molesters and Children as Witnesses* (Lund University).
 - Gewirtz-Meydan & Finkelhor (2019). Sexual abuse and assault in a large national sample. *Journal of Interpersonal Violence.*
 - Guterman & Lee (2005). The role of fathers in risk for physical child abuse and neglect. *Child Maltreatment.*
-- Lanning (2010). *Child Molesters: A Behavioral Analysis.* NCMEC/OJJDP.
+- Lanning (2010). *Child Molesters: A Behavioral Analysis* (5th ed.). NCMEC/OJJDP.
 - Mathews et al. (2024). CSA by different classes and types of perpetrator. *Child Abuse & Neglect.*
 - ONS (2020), reproduced in CSA Centre (2021). *The scale and nature of child sexual abuse: Review of evidence.*
 - Stoltenborgh et al. (2011). A global perspective on CSA: meta-analysis of prevalence. *Child Maltreatment.*

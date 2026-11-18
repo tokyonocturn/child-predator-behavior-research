@@ -26,7 +26,7 @@ The result is a literature in which credible estimates range from about 1% to ov
 | Stoltenborgh et al. (2011), *Child Maltreatment* | 217 publications, 331 samples, 9.9 million participants | Self-reported CSA 127 per 1,000 overall; 180 per 1,000 girls; 76 per 1,000 boys; informant studies 4 per 1,000 |
 | Pereda et al. (2009), *Clinical Psychology Review* | 65 studies, 22 countries | 19.7% girls; 7.9% boys |
 | Barth et al. (2013), *International Journal of Public Health* | Systematic review and meta-analysis | Wide range across studies: 0–69% for girls, 0–47% for boys, depending on design and definitions |
-| *The Lancet* (2025), global analysis | Global analysis by location, age, and sex, 1990–2023 | Recent global estimates; confirms substantial regional variation and earlier pooled estimates of roughly 18% girls / 7.6% boys |
+| *The Lancet* (2025), global analysis | 204 locations, 1990–2023; age-standardised estimates for 2023 | 18.9% of females (95% UI 16.0–25.2) and 14.8% of males (9.5–23.5); wide regional variation (12.2% to 26.8% for females by super-region). The 18.0% and 7.6% figures sometimes attached to this paper are Stoltenborgh et al.'s (2011) |
 
 ### 2.2 Agency estimates
 
@@ -111,7 +111,7 @@ From Mathews et al. (2024):
 
 ### 4.4 What the relationship data mean
 
-1. **"Stranger danger" is a minority strategy.** Depending on the survey, strangers account for roughly 5–21% of cases. The majority involve family, acquaintances, peers, and trusted adults.
+1. **"Stranger danger" is a minority strategy.** In U.K. national data, strangers account for 21.0% of contact abuse (ONS, 2020, Table 12b, in CSA Centre, 2021); across other surveys the figure runs lower. The majority involve family, acquaintances, peers, and trusted adults.
 2. **Peers and juveniles matter.** In community samples, a large share of sexual assault against minors is committed by other minors. Prevention must include healthy relationships, consent, and harmful sexual behavior responses, not only adult-offender messaging.
 3. **Family is not automatically safe.** Fathers, stepfathers, siblings, uncles, and cousins appear in the data. A safeguarding plan that exempts family from scrutiny is incomplete.
 4. **Institutional access matters.** Coaches, teachers, clergy, carers, and youth leaders appear across datasets; a U.S. national survey estimated 3.75% of adults experienced CSA in a youth-serving organization (Assini-Meytin et al., 2025).

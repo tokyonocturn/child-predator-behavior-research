@@ -536,7 +536,6 @@ Use for: the definitional distinction.
 Caution: book introduction; cite the full book for detailed claims.
 Link: not located (book; publisher landing page could not be verified, cite the print or ebook edition).
 Status: unverified. Book not consulted; cite the print or ebook edition for the definitional statement.
-Status: unverified. Book introduction; the definitional statement was not checked against the text in this audit.
 
 **Frontiers in Psychiatry (2025). Prevalence of pedophilia in a forensic psychiatric population in Switzerland.**
 58.8% of 51 forensic examinees accused of sexual offenses against minors under 14 were diagnosed with pedophilia; contact offenses were more often intrafamilial.
@@ -615,6 +614,7 @@ These resources are for readers in the United States. Outside the U.S., contact 
 14. **The CSEM meta-analysis was listed as unlocatable.** It exists and is open access: Baskurt, Babchishin, Hilkes and Seto (2025), *Aggression and Violent Behavior*, 85, 102080. Its sample and figures match the entry exactly.
 15. **Ward and Keenan's entry listed three of the five implicit theories.** All five are now named: children as sexual beings, nature of harm, entitlement, dangerous world and uncontrollability.
 16. **The Cortoni entry cited only the underlying studies.** The 2022 review is Augarde and Rydon-Grange, and its own text states the 5% to 20% range.
+17. **The corrected figures were propagated.** Entries 11 to 16 changed facts that the research papers also relied on. `research/01-victim-selection.md` now describes the Hatay sample as 48 male adolescents aged 12 to 17 with 47.9% from broken families, and no longer uses a 91.7% acquaintance figure. `research/05-statistics.md` gives the Lancet's own 18.9% and 14.8% estimates and attributes 18.0% and 7.6% to Stoltenborgh. `research/02-offender-psychology.md` cites Baskurt et al. (2025). The Lanning references now say fifth edition. No entry status changed in this pass, so the counts above are unchanged.
 
 **The two flagged mismatches, resolved.**
 

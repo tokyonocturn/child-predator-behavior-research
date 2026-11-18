@@ -152,7 +152,7 @@ The online offending population is not homogeneous. A useful distinction is betw
 
 Research on police reports found that contact-driven suspects used more positive rapport, sent unprompted sexual images, and offered gifts or exchanges more often than online-focused suspects (Soldino & Seigfried-Spellar, 2024). A Canadian judicial-decision taxonomy found that "mixed" groomers used more strategies per case and identified more vulnerable victims than in-person or online-only groomers (Berens et al., 2023).
 
-Recidivism differs sharply by group. A 2026 meta-analysis of 30 samples (N = 25,978) found that CSEM offenders had a 5.9% any-sexual recidivism rate and a 1.5% contact-sexual recidivism rate after an average five-year follow-up; mixed offenders had an 8.8% contact sexual recidivism rate versus 0.6% for CSEM-exclusive offenders (meta-analysis of CSEM recidivism, 2026). This is **Established** enough to support differentiated risk management, and it cuts against treating every CSEM consumer as a future contact offender.
+Recidivism differs sharply by group. A 2025 meta-analysis of 30 samples (N = 25,978) found that CSEM offenders had a 5.9% any-sexual recidivism rate and a 1.5% contact-sexual recidivism rate after an average 4.7-year follow-up; mixed offenders had an 8.8% contact sexual recidivism rate versus 0.6% for CSEM-exclusive offenders (Baskurt, Babchishin, Hilkes & Seto, 2025). This is **Established** enough to support differentiated risk management, and it cuts against treating every CSEM consumer as a future contact offender.
 
 **Caution:** official recidivism data underestimate undetected offending, and CSEM-only status is often determined by what was detected, not by what occurred. The low base rate is a population statement, not a guarantee about an individual.
 
@@ -204,7 +204,7 @@ Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 - Finkelhor (1984). *Child Sexual Abuse: New Theory and Research.*
 - Hanson & Bussière (1998); Hanson & Morton-Bourgon (2004). Meta-analyses of sexual recidivism.
 - Hanson, Lee & Thornton (2024). Long-term recidivism among high-risk individuals.
-- Lanning (2010). *Child Molesters: A Behavioral Analysis.*
+- Lanning (2010). *Child Molesters: A Behavioral Analysis* (5th ed.).
 - Lussier et al. (2023). Meta-analysis of youth sexual recidivism.
 - Mann, Hanson & Thornton (2010). Risk factors for sexual offending.
 - Gannon & Polaschek (2006). Cognitive distortions in child molesters: a re-examination. *Clinical Psychology Review.*
