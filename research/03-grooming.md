@@ -79,7 +79,7 @@ These are retrospective reports from a help-seeking sample; they describe the **
 - Using professional or religious authority to discourage questions.
 - Isolating the family from extended relatives or community who might notice.
 
-A 2025 dissertation study of residential settings found that in 54.1% of cases the offender was selected because the guardian trusted the offender; 70.9% of offenders said they did not know what made the victim appear vulnerable. The finding is **Emerging** (single study, dissertation), but it fits the larger literature: **trust is the access mechanism, and guardians are part of the target set.**
+A 2017 dissertation study of residential settings found that in 54.1% of cases the guardian trusting the offender was given as a reason the victim was selected (n = 72); 70.9% of offenders said they did not know what made the victim appear vulnerable. The finding is **Emerging** (single study, dissertation), but it fits the larger literature: **trust is the access mechanism, and guardians are part of the target set.**
 
 ### 3.3 With institutions
 

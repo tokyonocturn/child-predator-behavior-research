@@ -120,7 +120,7 @@ The strongest evidence in this area is not about fathers' bodies but about **acc
 - Finkelhor's preconditions model identifies "overcoming external inhibitions" (access and guardianship) as a necessary condition for abuse.
 - Situational crime prevention research shows that reducing isolated one-to-one access and increasing capable guardianship reduces opportunity (Kaufman et al., 2019; NIJ, 2024; Leclerc, 2026).
 - Offenders describe selecting children with weaker supervision and greater isolation, though the samples are small and convicted (AIC, 2015; Police1, 2008).
-- In a 2017 dissertation, 54.1% of cases involved an offender selected because the guardian trusted them: again, trust and access, not paternal size (Colombino, 2017; **Emerging**).
+- In a 2017 dissertation, guardian trust in the offender was given as a reason for victim selection in 54.1% of cases: again, trust and access, not paternal size (Colombino, 2017; **Emerging**).
 
 ### 5.2 Family structure is associated with risk (Established as association, Disputed as cause)
 

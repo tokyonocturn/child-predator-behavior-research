@@ -145,7 +145,7 @@ Why the caution:
 3. **Survivorship bias in the questions.** Researchers ask offenders who were caught about the children they abused, not about the children they approached and failed with.
 4. **Victim-blaming risk.** A list of child traits can slide into "that child was asking for it." The correct reading is: *offenders exploit unmet needs and weak guardianship*. The remedy is meeting needs and strengthening guardianship, not changing children.
 
-In a 2017 dissertation study of residential settings, 70.9% of offenders said they "did not know" what made the victim appear vulnerable; among those who did, age (9.1%), lack of supervision (9.1%), and the victim's trust (5.5%) were most cited (Colombino, 2017). The same study found that in 54.1% of cases the offender was selected because the guardian trusted the offender. That is an **Emerging** finding from a single dissertation, but it points in the same direction as the larger literature: **guardian trust is the access mechanism**.
+In a 2017 dissertation study of residential settings, 70.9% of offenders said they "did not know" what made the victim appear vulnerable; among those who did, age (9.1%), lack of supervision (9.1%), and the victim's trust (5.5%) were most cited (Colombino, 2017). The same study found that in 54.1% of cases the guardian trusting the offender was given as a reason the victim was selected (n = 72). That is an **Emerging** finding from a single dissertation, but it points in the same direction as the larger literature: **guardian trust is the access mechanism**.
 
 ---
 

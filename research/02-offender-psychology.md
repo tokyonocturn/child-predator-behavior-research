@@ -136,7 +136,7 @@ Important distinctions:
 
 - **Harmful sexual behavior (HSB)** is a broad spectrum from developmentally expected behavior to serious assault. Not all HSB is abuse, and not all children with HSB become adult offenders.
 - Juvenile sexual offending is often opportunistic, peer- or sibling-related, and associated with poor boundaries, trauma, and developmental immaturity.
-- The likelihood that a child convicted of a sexual offense will be convicted of a second sexual offense is low (commonly cited at 2–3% for one follow-up), though estimates vary by sample and follow-up length (Bravehearts, 2022, summarizing Australian data). A 2023 meta-analysis found that sexual recidivism among youth has been declining, while general recidivism remains higher (Lussier et al., 2023).
+- The likelihood that a child convicted of a sexual offense will be convicted of a second sexual offense is low (commonly cited at 2–3% for one follow-up), though estimates vary by sample and follow-up length (Bravehearts, 2022, summarizing Australian data). A 2023 meta-analysis found no convincing evidence that sexual recidivism among youth is declining; the rates have been consistently low, while general recidivism is substantially higher (weighted pooled mean 0.44 versus 0.08) (Lussier et al., 2023).
 
 **Policy implication:** juvenile offenders need developmentally appropriate intervention and safeguarding, not automatic lifelong registration or treatment as adult predators. At the same time, sibling and peer abuse must be taken seriously rather than minimized as "experimentation."
 
