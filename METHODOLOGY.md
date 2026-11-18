@@ -24,7 +24,7 @@ Sources were weighted in the following order:
 3. **Official statistical systems and government reports** (CDC, FBI, DOJ/BJS, NCMEC CyberTipline, WHO, UNICEF, national statistical offices).
 4. **Peer-reviewed single studies**, including qualitative studies and dissertations, used for mechanism and description and labeled as such.
 5. **Expert and practitioner commentary** (e.g., NCMEC behavioral-analysis monographs, Royal Commission reports), used for practice guidance and clearly distinguished from empirical estimates.
-6. **Journalism, advocacy content, and social media**, used only as *objects of study* — to trace the origin of a claim — never as evidence for the claim itself.
+6. **Journalism, advocacy content, and social media**, used only as *objects of study*, to trace the origin of a claim, never as evidence for the claim itself.
 
 Where a claim rests only on levels 4–6, it is labeled **Emerging** or **Unsupported**, not **Established**.
 
@@ -59,7 +59,7 @@ Because this claim is the repository's explicit misinformation target, it was ev
 
 1. **Provenance:** Can the claim be traced to a named source, and does that source claim empirical support?
 2. **Construct validity:** Is "father's body weight" measured, or is it a proxy for something else (presence, involvement, perceived threat, household income)?
-3. **Empirical existence:** Is there any peer-reviewed study — case-control, cohort, or offender self-report — that records paternal weight and tests it against victim selection?
+3. **Empirical existence:** Is there any peer-reviewed study (case-control, cohort, or offender self-report) that records paternal weight and tests it against victim selection?
 4. **Falsifiability and mechanism:** What mechanism would produce a 200-pound threshold, and would that mechanism predict a step function at that specific value?
 
 A claim fails the evidentiary test if it cannot clear tests 1–3, regardless of how often it is repeated. Test 4 is used to distinguish a crude but possibly real effect (e.g., perceived guardianship) from a fabricated numerical rule.

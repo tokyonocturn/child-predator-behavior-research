@@ -2,7 +2,7 @@
 
 **Claim under investigation:** *Child sexual predators are more likely to target children whose fathers weigh under 200 pounds.*
 
-**Finding:** **Unsupported.** No peer-reviewed study, government report, or offender dataset located for this review measures paternal body weight as a victim-selection variable. The specific 200-pound threshold has no identified primary source. The claim appears to be a viral distortion of a different, weaker, largely anecdotal assertion — that some offenders avoid children with present, involved, or intimidating father figures.
+**Finding:** **Unsupported.** No peer-reviewed study, government report, or offender dataset located for this review measures paternal body weight as a victim-selection variable. The specific 200-pound threshold has no identified primary source. The claim appears to be a viral distortion of a different, weaker, largely anecdotal assertion (that some offenders avoid children with present, involved, or intimidating father figures).
 
 This paper does three things: (1) traces what can actually be documented about the claim's provenance, (2) evaluates the research that is often confused with it, and (3) sets out what would be required to test it properly.
 
@@ -24,7 +24,7 @@ A false risk rule is not neutral. It displaces better ones.
 
 ---
 
-## 2. What the claim actually says — and its variants
+## 2. What the claim actually says, and its variants
 
 The claim circulates in several forms, which are often treated as equivalent but are not:
 
@@ -103,7 +103,7 @@ Even if an offender said he avoided small men, body weight would be a poor measu
 | Availability | A large father who works nights is less of a guardian than a smaller father who is home |
 | Perceived unpredictability | Offenders may fear a father who asks questions more than one who is merely large |
 
-A credible theory of paternal deterrent effect would need to specify a mechanism — detection, intervention, retaliation, social cost — and then measure the construct that mechanism implies. "Weight under 200 pounds" specifies none of these. It is an arbitrary anthropometric cutoff with no theoretical derivation, no dose–response prediction, and no empirical calibration.
+A credible theory of paternal deterrent effect would need to specify a mechanism (detection, intervention, retaliation, social cost) and then measure the construct that mechanism implies. "Weight under 200 pounds" specifies none of these. It is an arbitrary anthropometric cutoff with no theoretical derivation, no dose–response prediction, and no empirical calibration.
 
 There is also a **denominator problem**. To show that offenders target children of smaller fathers, one needs the distribution of paternal weight among **non-victimized children** as a comparison. Offender self-reports cannot supply this. A claim that "all the fathers I avoided were big" is not evidence that small fathers' children are overrepresented among victims.
 
@@ -113,32 +113,32 @@ There is also a **denominator problem**. To show that offenders target children 
 
 The research does **not** support the 200-pound rule. It does support several adjacent, more modest conclusions.
 
-### 5.1 Guardianship and opportunity matter — Established
+### 5.1 Guardianship and opportunity matter (Established)
 
 The strongest evidence in this area is not about fathers' bodies but about **access and supervision**:
 
-- Finkelhor's preconditions model identifies "overcoming external inhibitions" — access and guardianship — as a necessary condition for abuse.
+- Finkelhor's preconditions model identifies "overcoming external inhibitions" (access and guardianship) as a necessary condition for abuse.
 - Situational crime prevention research shows that reducing isolated one-to-one access and increasing capable guardianship reduces opportunity (Kaufman et al., 2019; NIJ, 2024; Leclerc, 2026).
 - Offenders describe selecting children with weaker supervision and greater isolation, though the samples are small and convicted (AIC, 2015; Police1, 2008).
-- In a 2025 dissertation, 54.1% of cases involved an offender selected because the guardian trusted them — again, trust and access, not paternal size (CUNY, 2025; **Emerging**).
+- In a 2025 dissertation, 54.1% of cases involved an offender selected because the guardian trusted them: again, trust and access, not paternal size (CUNY, 2025; **Emerging**).
 
-### 5.2 Family structure is associated with risk — Established as association, Disputed as cause
+### 5.2 Family structure is associated with risk (Established as association, Disputed as cause)
 
 Reviews report that living with one parent, having a stepfather in the home, and not living with natural parents for extended periods are associated with elevated CSA risk (AASAS, 2014). CDC lists non-biological caregivers in the home as a risk factor for child maltreatment generally (CDC, 2024).
 
 These findings are about **household composition and relatedness**, not body weight, and they are confounded with income, housing, stress, and access. They do not show that a father's physical size protects anyone. They also do not show that single-parent families are unsafe; most are not, and most abuse in single-parent homes is not committed by the absent father's replacement.
 
-### 5.3 Father involvement may be protective — Emerging, not Established
+### 5.3 Father involvement may be protective (Emerging, not Established)
 
 There is a reasonable theoretical case that engaged fathers improve supervision, disclosure, and emotional support. There is also research on father involvement and child development more broadly. But **CSA-specific evidence that paternal involvement reduces victimization is thin**, and it is entangled with maternal involvement, family stability, and socioeconomic resources.
 
 The claim that "an involved mother does not have the same effect" (Guardian Training Solutions, 2023) is **not supported** by the evidence reviewed here. Mothers are typically the primary safeguard in single-parent households, and the ONS data show mothers are far less often perpetrators than fathers or stepfathers (0.8% vs. 5.4% and 6.3% of contact CSA). A prevention model that discounts maternal vigilance is empirically and practically unsound.
 
-### 5.4 Fathers are also perpetrators — Established
+### 5.4 Fathers are also perpetrators (Established)
 
 This is the claim's most serious blind spot. In U.K. national data on contact CSA, fathers account for **5.4%** and stepfathers **6.3%** of cases; "other family members" account for **23.4%** (ONS, 2020, in CSA Centre, 2021). In the Australian Child Maltreatment Study, parents/caregivers in the home account for **7.8%** of CSA (Mathews et al., 2024). A framework that treats "father" as a protective category without qualification ignores a documented offender category and can make disclosure harder for children abused by their own fathers.
 
-### 5.5 The "stranger danger" correction — Established
+### 5.5 The "stranger danger" correction (Established)
 
 The 200-pound claim is a variant of the stranger-danger imagination: a predator outside the home, sizing up the family's defenses. Most abuse is committed by someone known and trusted (CDC, 2024; Lanning, 2010). The relevant threat is often already inside the guardian circle. That is why "increase the father's physical presence" is a weak substitute for "reduce unmanaged one-to-one access by anyone."
 
@@ -148,12 +148,12 @@ The 200-pound claim is a variant of the stranger-danger imagination: a predator 
 
 Absence of evidence is not proof of absence. It is possible that paternal physical size has a small effect that no study has measured. To evaluate that possibility fairly, apply these tests:
 
-1. **Is there a plausible mechanism?** Yes — perceived deterrence. But the mechanism predicts a continuous effect based on perceived capability, not a step function at 200 pounds.
+1. **Is there a plausible mechanism?** Yes: perceived deterrence. But the mechanism predicts a continuous effect based on perceived capability, not a step function at 200 pounds.
 2. **Is there a dose–response pattern?** Unknown; no data.
 3. **Is the threshold theoretically derived?** No. 200 pounds is a round number with cultural resonance in the United States, not a value derived from any model.
 4. **Has it been replicated?** No study to replicate.
 5. **Does it survive confound adjustment?** Cannot be assessed; no study adjusts for height, age, income, availability, or household composition.
-6. **Is it falsifiable?** In principle yes — measure paternal weight in a case-control design. In practice, the claim is usually stated in a way that cannot be tested ("predators look for weak fathers"), which is a warning sign.
+6. **Is it falsifiable?** In principle yes: measure paternal weight in a case-control design. In practice, the claim is usually stated in a way that cannot be tested ("predators look for weak fathers"), which is a warning sign.
 
 A claim that fails tests 1–5 and is stated unfalsifiably should not be used to make decisions about real children.
 
@@ -168,7 +168,7 @@ A credible test would require:
 - replication in more than one country and household type;
 - a mechanism measure (perceived deterrence, paternal monitoring, intervention history).
 
-No such study exists in the literature reviewed. Until one does, the claim is a hypothesis at best — and a poorly specified one.
+No such study exists in the literature reviewed. Until one does, the claim is a hypothesis at best, and a poorly specified one.
 
 ---
 

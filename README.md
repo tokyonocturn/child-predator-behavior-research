@@ -1,6 +1,6 @@
 # Child Predator Behavior Research
 
-An evidence-based, public research repository on how and why adults sexually abuse children — and what actually protects children.
+An evidence-based, public research repository on how and why adults sexually abuse children, and what actually protects children.
 
 **Purpose.** This project synthesizes peer-reviewed research, meta-analyses, and government data to explain victim selection, offender psychology, grooming, prevalence, and prevention. It is written for parents, guardians, educators, coaches, clinicians, policymakers, journalists, and students. It is also written to correct a specific, widespread piece of misinformation: the claim that predators select children based on their father's body weight.
 
@@ -12,9 +12,9 @@ An evidence-based, public research repository on how and why adults sexually abu
 
 1. **Most child sexual abuse is committed by someone the child or family knows.** CDC estimates about 90% of child sexual abuse is perpetrated by someone known and trusted by the child or family. "Stranger danger" addresses a minority of cases.
 2. **There is no single predator profile.** Offenders differ in motivation, age preference, relationship to the child, and method. Pedophilia (a sexual interest in prepubescent children) is present in only about half of people who sexually abuse children, and most people with pedophilia never come to official attention. Risk comes from behavior and opportunity, not from appearance or demographic category.
-3. **Grooming is a process of access, trust, testing, isolation, and secrecy — not a single act.** It targets the child *and* the adults around the child. The same behaviors that make a person trusted can be the grooming behaviors.
-4. **The "father weighs under 200 pounds" claim is unsupported.** No peer-reviewed study measures paternal body weight as a selection criterion. The claim appears to be a viral distortion of anecdotal statements by investigators and one convicted offender, whose actual point was about perceived guardianship and availability — not physical size. See [`research/04-father-protection-theory.md`](research/04-father-protection-theory.md).
-5. **Prevention works best when it changes environments, not just children's knowledge.** School-based programs reliably improve knowledge and self-protection skills; evidence for lasting behavioral change is weaker. Situational prevention — reducing isolation, controlling access, enforcing boundaries, and creating capable guardians — has the strongest practical rationale for organizations and families.
+3. **Grooming is a process of access, trust, testing, isolation, and secrecy, not a single act.** It targets the child *and* the adults around the child. The same behaviors that make a person trusted can be the grooming behaviors.
+4. **The "father weighs under 200 pounds" claim is unsupported.** No peer-reviewed study measures paternal body weight as a selection criterion. The claim appears to be a viral distortion of anecdotal statements by investigators and one convicted offender, whose actual point was about perceived guardianship and availability, not physical size. See [`research/04-father-protection-theory.md`](research/04-father-protection-theory.md).
+5. **Prevention works best when it changes environments, not just children's knowledge.** School-based programs reliably improve knowledge and self-protection skills; evidence for lasting behavioral change is weaker. Situational prevention (reducing isolation, controlling access, enforcing boundaries, and creating capable guardians) has the strongest practical rationale for organizations and families.
 6. **Disclosure is the exception, not the norm.** Most victims delay disclosure for years or never disclose. A child who does not report is behaving normally, not lying or complicit. See [`research/05-statistics.md`](research/05-statistics.md).
 
 ---
@@ -55,7 +55,7 @@ Correlation is described as correlation. Where a factor is a marker rather than 
 
 - **"Pedophile" is not a synonym for "child molester."** Pedophilia is a clinical pattern of sexual interest; child sexual abuse is a behavior. Conflating them produces bad policy and bad conversations. This repository uses "person who sexually abused a child" or "offender" for behavior, and "pedophilia" only for the clinical construct.
 - **Risk factors are not blame.** A child's family structure, disability, or prior victimization may be statistically associated with elevated risk. That does not make the child or the family responsible for an adult's choice to offend. Responsibility always rests with the offender.
-- **Demographic stereotypes are not evidence.** Offenders are not concentrated in a single race, class, religion, sexual orientation, or family form. Where base rates differ, they track opportunity, reporting, and structural factors — not group character.
+- **Demographic stereotypes are not evidence.** Offenders are not concentrated in a single race, class, religion, sexual orientation, or family form. Where base rates differ, they track opportunity, reporting, and structural factors, not group character.
 - **Victimization is not destiny.** Most survivors do not go on to offend. Claims that "abused children become abusers" are both empirically overstated and harmful.
 
 ---

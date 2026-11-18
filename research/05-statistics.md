@@ -10,7 +10,7 @@ Before quoting any statistic, ask four questions:
 
 1. **What counts as abuse?** Non-contact exposure, unwanted solicitation, peer assault, statutory rape, and penetrative abuse produce very different prevalence estimates.
 2. **Who is asked?** Children, adults recalling childhood, parents, clinicians, police, and child-protective-services records produce different rates.
-3. **How is it asked?** Anonymous self-report surveys yield far higher rates than official records. Stoltenborgh et al. (2011) found 127 per 1,000 in self-report studies versus 4 per 1,000 in informant studies — a 30-fold difference driven largely by method.
+3. **How is it asked?** Anonymous self-report surveys yield far higher rates than official records. Stoltenborgh et al. (2011) found 127 per 1,000 in self-report studies versus 4 per 1,000 in informant studies, a 30-fold difference driven largely by method.
 4. **What is the recall period?** Past-year, lifetime-to-date, and adult retrospective estimates are not comparable.
 
 The result is a literature in which credible estimates range from about 1% to over 20% for girls, depending on the study. That is not a scandal; it is what happens when a hidden, definitionally contested phenomenon is measured in different ways. The correct response is to report ranges and name the method, not to pick the number that fits a narrative.
@@ -73,7 +73,7 @@ This is the most important table in the repository for prevention.
 ### 4.1 U.S. summary
 
 - **About 90%** of CSA is perpetrated by someone known and trusted by the child or family (CDC, 2024).
-- In national victimization data, most offenses against both boys and girls are committed by **other juveniles** — 76.7% for male victims and 70.1% for female victims — primarily acquaintances (Gewirtz-Meydan & Finkelhor, 2019).
+- In national victimization data, most offenses against both boys and girls are committed by **other juveniles** (76.7% for male victims and 70.1% for female victims), primarily acquaintances (Gewirtz-Meydan & Finkelhor, 2019).
 
 ### 4.2 U.K. contact CSA, by perpetrator (adults reporting childhood abuse)
 
@@ -120,7 +120,7 @@ From Mathews et al. (2024):
 
 ## 5. Settings and locations
 
-Contact abuse occurs most often in **private residential settings** — the child's home, the offender's home, or another residence. Lanning (2010) notes that offenders tend to offend in their own home or close to it; Swedish modus-operandi research reached the same conclusion for non-familial offenders (Ebberline & Holmberg, 2008).
+Contact abuse occurs most often in **private residential settings**: the child's home, the offender's home, or another residence. Lanning (2010) notes that offenders tend to offend in their own home or close to it; Swedish modus-operandi research reached the same conclusion for non-familial offenders (Ebberline & Holmberg, 2008).
 
 Other documented settings:
 
@@ -152,7 +152,7 @@ The practical implication: **place-based prevention must cover homes and digital
 
 ### 6.3 Why this matters for interpretation
 
-Official counts are **detection counts**, not incidence. A low count in a jurisdiction may mean less abuse, better prevention, or worse reporting — and the three are not distinguishable from the count alone. It also means that "no report was made" is not evidence that nothing happened, and that a delayed disclosure is consistent with the base rate rather than a sign of fabrication.
+Official counts are **detection counts**, not incidence. A low count in a jurisdiction may mean less abuse, better prevention, or worse reporting, and the three are not distinguishable from the count alone. It also means that "no report was made" is not evidence that nothing happened, and that a delayed disclosure is consistent with the base rate rather than a sign of fabrication.
 
 ---
 

@@ -64,7 +64,7 @@ These findings are real associations. They are also easy to misread.
 
 "Father absence" is often invoked in popular accounts as a master explanation. The peer-reviewed literature treats it as one correlate among many, with weak causal identification. A 2005 review of fathers and physical abuse risk noted that the pathway from father absence to maltreatment is not well understood and may run through poverty and family stress rather than through father absence itself (Guterman & Lee, 2005). That review concerns physical abuse, not CSA, and is cited here only to show how cautiously the "absent father" literature is treated by researchers.
 
-**Bottom line:** household composition is a marker of structural vulnerability and access, not a diagnosis of a family. Prevention should target the conditions — isolation, unsupervised access, economic stress — not the family form.
+**Bottom line:** household composition is a marker of structural vulnerability and access, not a diagnosis of a family. Prevention should target the conditions (isolation, unsupervised access, economic stress), not the family form.
 
 ---
 
@@ -86,7 +86,7 @@ Relationship data are among the most robust findings in the field, though the ex
 
 ### U.S. national victimization data
 
-In the National Survey of Children's Exposure to Violence (n = 13,052), most offenses were at the hands of other juveniles — 70.1% for female victims and 76.7% for male victims — primarily acquaintances (Gewirtz-Meydan & Finkelhor, 2019). This is a broader definition of "sexual abuse and assault" than some clinical studies use, and it includes peer offending that many legal definitions treat separately.
+In the National Survey of Children's Exposure to Violence (n = 13,052), most offenses were at the hands of other juveniles (70.1% for female victims and 76.7% for male victims), primarily acquaintances (Gewirtz-Meydan & Finkelhor, 2019). This is a broader definition of "sexual abuse and assault" than some clinical studies use, and it includes peer offending that many legal definitions treat separately.
 
 ### U.K. national data (contact CSA, adults reporting childhood abuse)
 
@@ -127,15 +127,15 @@ The Australian Child Maltreatment Study found a 28.5% lifetime CSA prevalence, w
 - A Turkish clinical sample of 48 offenders found 91.7% knew their victims (Hatay study, 2016). Small and non-representative, but consistent with the larger pattern.
 - In an Australian sample of incarcerated offenders who offended in youth-serving organizations, 53% reported a familial first victim and 47% a non-familial first victim, including 6% stranger-onset; 66% of those with a prior relationship had known the victim for more than a year (Crime Science, 2015).
 
-**Synthesis:** the "known vs. stranger" binary is less useful than a continuum of **access roles** — family, family-adjacent, institutional, recreational, digital, and stranger. Prevention should map the access roles in a child's life, not rank strangers against relatives.
+**Synthesis:** the "known vs. stranger" binary is less useful than a continuum of **access roles**: family, family-adjacent, institutional, recreational, digital, and stranger. Prevention should map the access roles in a child's life, not rank strangers against relatives.
 
 ---
 
-## 7. What offenders say they look for — and why to read it carefully
+## 7. What offenders say they look for, and why to read it carefully
 
 Offender self-report studies produce a recurring list: loneliness, low self-esteem, need for attention, few friends, a chaotic or distracted family, prior abuse, and poor supervision. For example:
 
-- A practitioner review based on interviews with offenders lists loneliness, quiet/passive temperament, attention-seeking, no siblings at home, prior abuse, family dysfunction, and perceived questionable credibility (Police1, 2008 — practitioner commentary, not a study).
+- A practitioner review based on interviews with offenders lists loneliness, quiet/passive temperament, attention-seeking, no siblings at home, prior abuse, family dysfunction, and perceived questionable credibility (Police1, 2008, practitioner commentary, not a study).
 - The AIC (2015) sample of 16 offenders said they targeted children perceived to know about sex and to have had prior sexual contact; 37.5% said the child was well supervised and 37.5% said the child was never alone. That last finding is important: **supervision alone did not deter this sample**; perceived sexual precocity and access did.
 
 Why the caution:
@@ -151,7 +151,7 @@ In a 2025 dissertation study of residential settings, 70.9% of offenders said th
 
 ## 8. Settings and locations
 
-Contact abuse occurs most often in private residential settings — the child's home, the offender's home, or another residence — rather than in public spaces. Lanning (2010) notes that offenders tend to offend in their own home or close to it, and the Swedish modus-operandi research reached the same conclusion for non-familial offenders (Ebberline & Holmberg, 2008). Youth-serving organizations, schools, sports, religious institutions, and residential care are also documented settings; a national U.S. survey estimated that 3.75% of adults experienced CSA in a youth-serving organization (Assini-Meytin et al., 2025).
+Contact abuse occurs most often in private residential settings (the child's home, the offender's home, or another residence) rather than in public spaces. Lanning (2010) notes that offenders tend to offend in their own home or close to it, and the Swedish modus-operandi research reached the same conclusion for non-familial offenders (Ebberline & Holmberg, 2008). Youth-serving organizations, schools, sports, religious institutions, and residential care are also documented settings; a national U.S. survey estimated that 3.75% of adults experienced CSA in a youth-serving organization (Assini-Meytin et al., 2025).
 
 Online-facilitated abuse has no physical location, which is precisely why place-based prevention is insufficient. See [`03-grooming.md`](03-grooming.md) and [`05-statistics.md`](05-statistics.md).
 
@@ -159,7 +159,7 @@ Online-facilitated abuse has no physical location, which is precisely why place-
 
 ## 9. What this means for prevention
 
-1. **Map access, not stereotypes.** Identify every adult with unsupervised, one-to-one access to a child — including relatives, family friends, coaches, tutors, clergy, and online contacts.
+1. **Map access, not stereotypes.** Identify every adult with unsupervised, one-to-one access to a child, including relatives, family friends, coaches, tutors, clergy, and online contacts.
 2. **Reduce isolation.** The most repeated offender-reported vulnerability is a child without a trusted adult or peer group. Isolation is also a *consequence* of grooming, so reducing it serves both prevention and detection.
 3. **Treat guardian trust as a control point.** Background checks, references, boundary policies, and surprise presence matter more than trying to spot a "bad person."
 4. **Do not use family structure as a risk label.** Support single parents, stepfamilies, and families under economic stress with respite, supervision resources, and community connection rather than suspicion.

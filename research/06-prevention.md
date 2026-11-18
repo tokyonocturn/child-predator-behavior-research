@@ -8,8 +8,8 @@
 
 CSA prevention has historically oscillated between two failed poles:
 
-- **Stranger danger** — teaching children to fear unknown adults, which addresses a minority of cases and can inhibit disclosure about known offenders.
-- **Offender registries and residence restrictions** — public lists that may satisfy accountability goals but have not been shown to reduce first-time or repeat offending, and can increase instability and isolation for people under supervision.
+- **Stranger danger:** teaching children to fear unknown adults, which addresses a minority of cases and can inhibit disclosure about known offenders.
+- **Offender registries and residence restrictions:** public lists that may satisfy accountability goals but have not been shown to reduce first-time or repeat offending, and can increase instability and isolation for people under supervision.
 
 The public health approach is different. It identifies **risk and protective factors** at individual, relationship, community, and societal levels; designs interventions at each level; and evaluates outcomes. CDC's socio-ecological model is the standard framework, and it is the one used here.
 
@@ -24,7 +24,7 @@ Protective factors are conditions associated with lower risk or better outcomes.
 ### 2.1 Child-level
 
 - **A trusted, responsive adult.** The single most consistent protective relationship in the literature. Children who have at least one adult who listens and believes them are more likely to disclose and less likely to be isolated.
-- **Knowledge of body autonomy and naming.** Children who can name body parts, recognize unsafe touch, and say no are better positioned to resist and report — though knowledge alone does not prevent abuse by a trusted adult.
+- **Knowledge of body autonomy and naming.** Children who can name body parts, recognize unsafe touch, and say no are better positioned to resist and report, though knowledge alone does not prevent abuse by a trusted adult.
 - **Social connection.** Friends, activities, and belonging reduce the isolation that offenders exploit.
 - **Emotional regulation and assertiveness.** Useful, but not a substitute for adult protection; do not turn protection into a child's job.
 
@@ -39,11 +39,11 @@ Protective factors are conditions associated with lower risk or better outcomes.
 
 ### 2.3 Community and institutional
 
-- **Capable guardianship** — adults who are present, observant, and willing to intervene.
-- **Organizational safeguards** — codes of conduct, two-adult rules, open visibility, screening, training, reporting channels, and a culture that takes concerns seriously.
-- **Safe, stable, nurturing relationships and environments** — CDC's overarching prevention frame.
-- **Economic and social support for families** — reducing stress, isolation, and instability that erode supervision.
-- **School connectedness** — a consistent protective factor for adolescent risk behavior, including victimization.
+- **Capable guardianship:** adults who are present, observant, and willing to intervene.
+- **Organizational safeguards:** codes of conduct, two-adult rules, open visibility, screening, training, reporting channels, and a culture that takes concerns seriously.
+- **Safe, stable, nurturing relationships and environments:** CDC's overarching prevention frame.
+- **Economic and social support for families:** reducing stress, isolation, and instability that erode supervision.
+- **School connectedness:** a consistent protective factor for adolescent risk behavior, including victimization.
 
 ### 2.4 What is not a protective factor
 
@@ -145,7 +145,7 @@ A 2025 systematic review of reviews updating the WHO INSPIRE framework rated **s
 
 Bystander programs teach adults and peers to recognize risky situations and intervene. They are widely used in sexual violence prevention on college campuses and in some youth settings.
 
-**Evidence status:** **Emerging/Mixed.** Some studies show improvements in bystander attitudes and behaviors; the 2025 INSPIRE review rated bystander interventions as not currently supported by sufficient evidence of violence reduction. The logic is sound — most abuse occurs in contexts where other adults could notice — but the evidence base for CSA-specific outcomes is thin.
+**Evidence status:** **Emerging/Mixed.** Some studies show improvements in bystander attitudes and behaviors; the 2025 INSPIRE review rated bystander interventions as not currently supported by sufficient evidence of violence reduction. The logic is sound (most abuse occurs in contexts where other adults could notice), but the evidence base for CSA-specific outcomes is thin.
 
 For families and communities, the practical version is **collective guardianship**: multiple adults who know the child, know each other, and feel responsible for noticing. This is not a program; it is a social norm.
 

@@ -1,6 +1,6 @@
 # Contributing
 
-This repository is a public research resource. Contributions are welcome from researchers, clinicians, educators, safeguarding professionals, survivors, and informed readers. The standard is not "sounds right" — it is "traceable to good evidence."
+This repository is a public research resource. Contributions are welcome from researchers, clinicians, educators, safeguarding professionals, survivors, and informed readers. The standard is not "sounds right": it is "traceable to good evidence."
 
 ---
 

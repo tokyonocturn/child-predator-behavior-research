@@ -387,7 +387,7 @@ Caution: concerns physical abuse and neglect, not CSA specifically.
 
 ## G. Methods, definitions, and context
 
-**American Psychological Association (2018). *Pedophilia and Sexual Offending Against Children* (2nd ed.) — introduction sample.**
+**American Psychological Association (2018). *Pedophilia and Sexual Offending Against Children* (2nd ed.): introduction sample.**
 Seto's explicit statement that some pedophilic individuals never offend and some offenders are not pedophilic.
 Use for: the definitional distinction.
 Caution: book introduction; cite the full book for detailed claims.
@@ -430,4 +430,4 @@ These resources are for readers in the United States. Outside the U.S., contact 
 
 ## Note on citation accuracy
 
-Author names and findings were checked against publisher pages, PubMed records, or official reports at the time of compilation. Where the author list could not be verified, the entry is title-first rather than attributed to a guessed author. If you find an error, please open an issue with the correct citation and a link — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Author names and findings were checked against publisher pages, PubMed records, or official reports at the time of compilation. Where the author list could not be verified, the entry is title-first rather than attributed to a guessed author. If you find an error, please open an issue with the correct citation and a link (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).

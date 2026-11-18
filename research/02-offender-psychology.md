@@ -29,22 +29,22 @@ The key empirical point: **pedophilia and CSA overlap but are not the same popul
 
 Finkelhor proposed that CSA requires four conditions to be met, in sequence:
 
-1. **Motivation** to sexually abuse a child — arising from emotional congruence (the child meets an emotional need), sexual arousal to children, and/or blockage (inability to meet sexual needs with adults).
-2. **Overcoming internal inhibitions** — disinhibition through alcohol, stress, cognitive distortions, or weakened controls.
-3. **Overcoming external inhibitions** — gaining access and defeating guardianship, supervision, and physical barriers.
-4. **Overcoming the child's resistance** — through coercion, manipulation, bribery, or grooming.
+1. **Motivation** to sexually abuse a child, arising from emotional congruence (the child meets an emotional need), sexual arousal to children, and/or blockage (inability to meet sexual needs with adults).
+2. **Overcoming internal inhibitions:** disinhibition through alcohol, stress, cognitive distortions, or weakened controls.
+3. **Overcoming external inhibitions:** gaining access and defeating guardianship, supervision, and physical barriers.
+4. **Overcoming the child's resistance:** through coercion, manipulation, bribery, or grooming.
 
-The model's enduring value is that it treats abuse as a **conjunction of motivation and opportunity**, not as a single drive. It predicts that removing opportunity (precondition 3) can prevent abuse even when motivation persists — which is the empirical basis for situational prevention. It is a framework, not a tested causal model, and it does not specify how the preconditions interact in individual cases.
+The model's enduring value is that it treats abuse as a **conjunction of motivation and opportunity**, not as a single drive. It predicts that removing opportunity (precondition 3) can prevent abuse even when motivation persists, which is the empirical basis for situational prevention. It is a framework, not a tested causal model, and it does not specify how the preconditions interact in individual cases.
 
 ### 2.2 Ward and Siegert's Pathways Model (2002)
 
 The pathways model proposes multiple etiological routes to child sexual abuse, each involving a different cluster of psychological mechanisms:
 
-- **Intimacy deficit** pathway — loneliness, insecure attachment, poor social skills
-- **Deviant sexual scripts** pathway — sexual arousal and fantasy patterns shaped by early experience
-- **Emotional dysregulation** pathway — poor coping, impulsivity, negative mood states
-- **Antisocial cognitions** pathway — attitudes that justify or normalize sexual contact with children
-- **Multiple dysfunctional mechanisms** pathway — a combination, often associated with more severe and persistent offending
+- **Intimacy deficit** pathway: loneliness, insecure attachment, poor social skills
+- **Deviant sexual scripts** pathway: sexual arousal and fantasy patterns shaped by early experience
+- **Emotional dysregulation** pathway: poor coping, impulsivity, negative mood states
+- **Antisocial cognitions** pathway: attitudes that justify or normalize sexual contact with children
+- **Multiple dysfunctional mechanisms** pathway: a combination, often associated with more severe and persistent offending
 
 The model is important because it replaces a single "pedophile profile" with the idea that different people offend for different reasons and may need different interventions. It is **Established as a framework** and supported by clinical observation, but the pathways are not cleanly separable in data, and most offenders do not fit neatly into one.
 
@@ -55,7 +55,7 @@ This model integrates biological (brain development, genetics), ecological (soci
 ### 2.4 Other models worth knowing
 
 - **Marshall and Barbaree (1990):** adverse developmental experiences impair the ability to form intimate relationships and regulate aggression, increasing vulnerability to sexually coercive behavior.
-- **Hall and Hirschman (1991):** four factors — sexual arousal, cognitive distortions, affective dysregulation, and personality problems — with different factors dominant in different offenders.
+- **Hall and Hirschman (1991):** four factors (sexual arousal, cognitive distortions, affective dysregulation, and personality problems), with different factors dominant in different offenders.
 - **Smallbone et al. (2013):** a socio-ecological model emphasizing insecure attachment, care-seeking/caregiving sexualization, and situational motivation.
 
 None of these models is sufficient on its own. Their shared implication is more useful than their differences: **there is no single cause and no single offender type.**
@@ -75,7 +75,7 @@ People who sexually abuse children frequently endorse beliefs that minimize, jus
 - "No one was hurt" or "I was helping"
 - "The child will not remember" or "will not be believed"
 
-These are often described as **implicit theories** — broad schemas about children, sexuality, and harm (Ward & Keenan, 1999). Clinically, they matter because they predict treatment engagement and because they are used to maintain offending and manage guilt.
+These are often described as **implicit theories**: broad schemas about children, sexuality, and harm (Ward & Keenan, 1999). Clinically, they matter because they predict treatment engagement and because they are used to maintain offending and manage guilt.
 
 ### What is disputed
 
@@ -136,7 +136,7 @@ Important distinctions:
 
 - **Harmful sexual behavior (HSB)** is a broad spectrum from developmentally expected behavior to serious assault. Not all HSB is abuse, and not all children with HSB become adult offenders.
 - Juvenile sexual offending is often opportunistic, peer- or sibling-related, and associated with poor boundaries, trauma, and developmental immaturity.
-- The likelihood that a child convicted of a sexual offense will be convicted of a second sexual offense is low — commonly cited at 2–3% for one follow-up — though estimates vary by sample and follow-up length (Bravehearts, 2022, summarizing Australian data). A 2023 meta-analysis found that sexual recidivism among youth has been declining, while general recidivism remains higher (Lussier et al., 2023).
+- The likelihood that a child convicted of a sexual offense will be convicted of a second sexual offense is low (commonly cited at 2–3% for one follow-up), though estimates vary by sample and follow-up length (Bravehearts, 2022, summarizing Australian data). A 2023 meta-analysis found that sexual recidivism among youth has been declining, while general recidivism remains higher (Lussier et al., 2023).
 
 **Policy implication:** juvenile offenders need developmentally appropriate intervention and safeguarding, not automatic lifelong registration or treatment as adult predators. At the same time, sibling and peer abuse must be taken seriously rather than minimized as "experimentation."
 
@@ -146,9 +146,9 @@ Important distinctions:
 
 The online offending population is not homogeneous. A useful distinction is between:
 
-- **CSEM-only offenders** — people who view, collect, or distribute abusive images without known contact offending.
-- **Contact-driven online offenders** — people who use online communication to meet children for contact abuse.
-- **Mixed offenders** — people with both CSEM and contact offenses, who tend to present higher risk.
+- **CSEM-only offenders:** people who view, collect, or distribute abusive images without known contact offending.
+- **Contact-driven online offenders:** people who use online communication to meet children for contact abuse.
+- **Mixed offenders:** people with both CSEM and contact offenses, who tend to present higher risk.
 
 Research on police reports found that contact-driven suspects used more positive rapport, sent unprompted sexual images, and offered gifts or exchanges more often than online-focused suspects (Soldino & Seigfried-Spellar, 2024). A Canadian judicial-decision taxonomy found that "mixed" groomers used more strategies per case and identified more vulnerable victims than in-person or online-only groomers (Berens et al., 2023).
 
@@ -183,7 +183,7 @@ The prevention implication is not "relax." It is "allocate supervision and treat
 Across the literature, the more consistent correlates of sexual offending against children are:
 
 - **Deviant sexual interest** (pedophilia/hebephilia), especially when combined with antisociality
-- **Antisocial orientation** — rule-breaking, impulsivity, hostility, criminal history
+- **Antisocial orientation:** rule-breaking, impulsivity, hostility, criminal history
 - **Intimacy deficits and loneliness**
 - **Sexual preoccupation and poor self-regulation**
 - **Offense-supportive cognitions**

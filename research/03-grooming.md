@@ -25,17 +25,17 @@ The Australian National Office for Child Safety describes the process as targeti
 
 Winters et al. (2020) reviewed the literature and identified 77 grooming behaviors within five overarching stages:
 
-1. **Victim selection** — identifying a child perceived as accessible and less likely to disclose.
-2. **Gaining access and isolating the child** — securing a role or relationship that permits one-to-one contact, then separating the child from protective relationships.
-3. **Trust development** — becoming the child's confidant, benefactor, and "safe" adult; grooming the family simultaneously.
-4. **Desensitization to sexual content and physical contact** — gradually introducing sexual language, jokes, images, or touch, and normalizing it.
-5. **Maintenance following abuse** — sustaining silence and continued access through secrecy, guilt, threats, gifts, or the appearance of a loving relationship.
+1. **Victim selection:** identifying a child perceived as accessible and less likely to disclose.
+2. **Gaining access and isolating the child:** securing a role or relationship that permits one-to-one contact, then separating the child from protective relationships.
+3. **Trust development:** becoming the child's confidant, benefactor, and "safe" adult; grooming the family simultaneously.
+4. **Desensitization to sexual content and physical contact:** gradually introducing sexual language, jokes, images, or touch, and normalizing it.
+5. **Maintenance following abuse:** sustaining silence and continued access through secrecy, guilt, threats, gifts, or the appearance of a loving relationship.
 
 This model is descriptive and useful for training and forensic interviewing. It is **not** a validated sequential theory: offenders skip stages, loop back, run multiple targets in parallel, and may never progress to contact abuse.
 
 An earlier online typology from O'Connell (2003), based on posing as a minor in chat rooms, identified six stages: friendship-forming, relationship-forming, risk assessment, exclusivity, sexual, and concluding (damage limitation or "hit-and-run"). Elliott's (2017) self-regulation model describes a potentiality phase (rapport-building, incentivization, disinhibition, security management) followed by a disclosure phase in which strategies adjust to the victim's responses.
 
-**Synthesis:** the stage models agree on the functions — access, trust, testing, isolation, secrecy — even when they disagree on labels and order.
+**Synthesis:** the stage models agree on the functions (access, trust, testing, isolation, secrecy) even when they disagree on labels and order.
 
 ---
 
@@ -45,16 +45,16 @@ An earlier online typology from O'Connell (2003), based on posing as a minor in 
 
 Common behaviors reported by survivors and offenders:
 
-- **Special attention and flattery** — making the child feel uniquely valued, "mature," or understood.
-- **Gifts, money, treats, and privileges** — creating obligation and secrecy; sometimes filling a material need the family cannot meet.
-- **Shared secrets** — "this is just between us," "your parents wouldn't understand."
-- **Boundary erosion** — tickling, wrestling, lap-sitting, massages, sharing a bed, nudity, bathroom "accidents," increasingly sexual jokes.
-- **Testing disclosure** — asking about the child's friends, what the child tells their parents, whether the child has been abused before.
-- **Isolation** — encouraging distance from friends, criticizing the family, arranging private trips, creating a "we vs. them" dynamic.
-- **Role capture** — becoming the child's mentor, coach, tutor, confidant, or surrogate parent.
-- **Desensitization** — introducing sexual content gradually, first as jokes or "education," then images, then contact.
-- **Coercion and threats** — threats to withdraw love, expose the child, harm the family, or share images.
-- **Apparent romance** — with adolescents, presenting the relationship as love, which increases compliance and delays disclosure.
+- **Special attention and flattery:** making the child feel uniquely valued, "mature," or understood.
+- **Gifts, money, treats, and privileges:** creating obligation and secrecy; sometimes filling a material need the family cannot meet.
+- **Shared secrets:** "this is just between us," "your parents wouldn't understand."
+- **Boundary erosion:** tickling, wrestling, lap-sitting, massages, sharing a bed, nudity, bathroom "accidents," increasingly sexual jokes.
+- **Testing disclosure:** asking about the child's friends, what the child tells their parents, whether the child has been abused before.
+- **Isolation:** encouraging distance from friends, criticizing the family, arranging private trips, creating a "we vs. them" dynamic.
+- **Role capture:** becoming the child's mentor, coach, tutor, confidant, or surrogate parent.
+- **Desensitization:** introducing sexual content gradually, first as jokes or "education," then images, then contact.
+- **Coercion and threats:** threats to withdraw love, expose the child, harm the family, or share images.
+- **Apparent romance:** with adolescents, presenting the relationship as love, which increases compliance and delays disclosure.
 
 In a survey of survivors using the Sexual Grooming Scale–Victim Version, 99% endorsed at least one grooming behavior, with an average of 14.25 behaviors reported per survivor (Winters et al., 2024). The most frequently reported behaviors were:
 
@@ -91,7 +91,7 @@ Institutional grooming includes:
 - choosing settings with weak reporting cultures,
 - using "boundary-pushing" to test whether anyone intervenes.
 
-The Royal Commission and subsequent safeguarding research emphasize that organizational culture — not just individual screening — determines whether grooming succeeds. See [`06-prevention.md`](06-prevention.md).
+The Royal Commission and subsequent safeguarding research emphasize that organizational culture, not just individual screening, determines whether grooming succeeds. See [`06-prevention.md`](06-prevention.md).
 
 ---
 
@@ -99,21 +99,21 @@ The Royal Commission and subsequent safeguarding research emphasize that organiz
 
 ### 4.1 What is different online
 
-Online grooming compresses time, widens the pool of potential victims, and removes the physical presence that might alert adults. It also produces a digital trail that can support detection and prosecution — if it is preserved and reported.
+Online grooming compresses time, widens the pool of potential victims, and removes the physical presence that might alert adults. It also produces a digital trail that can support detection and prosecution, if it is preserved and reported.
 
 A scoping review of 93 papers found that pre-internet grooming strategies included enticements, coercion, isolation, substance abuse, gradual sexualization, and secrecy, while post-internet strategies added risk assessment, fantasy, media progression, meeting, deception, and repetition (Child Abuse & Neglect, 2022). The core functions did not change; the **speed, scale, and evidence trail** did.
 
 ### 4.2 Common online tactics
 
-- **Platform selection** — games, social media, chat apps, forums, and livestreaming sites where children gather.
-- **Age and identity deception** — usually *not* pretending to be a child. In the N-JOV study, only 5% of offenders pretended to be teens (Wolak et al., 2008). Most victims knew they were talking to an older person.
-- **Rapport and "love bombing"** — intense attention, compliments, shared interests, emotional intimacy.
-- **Sexualization** — gradual introduction of sexual talk, requests for images, or "truth or dare" games.
-- **Desensitization to images** — sending adult pornography or CSAM, normalizing sexual content.
-- **Secrecy and isolation** — moving to encrypted or disappearing-message apps, asking the child to delete chats, discouraging them from telling parents.
-- **Risk assessment** — asking whether the child's parents check their phone, whether they have been abused before, who they trust.
-- **Meeting** — arranging in-person contact, sometimes with transportation, gifts, or threats.
-- **Financial sextortion** — obtaining an intimate image, then demanding money under threat of exposure. This has become a major and growing category.
+- **Platform selection:** games, social media, chat apps, forums, and livestreaming sites where children gather.
+- **Age and identity deception:** usually *not* pretending to be a child. In the N-JOV study, only 5% of offenders pretended to be teens (Wolak et al., 2008). Most victims knew they were talking to an older person.
+- **Rapport and "love bombing":** intense attention, compliments, shared interests, emotional intimacy.
+- **Sexualization:** gradual introduction of sexual talk, requests for images, or "truth or dare" games.
+- **Desensitization to images:** sending adult pornography or CSAM, normalizing sexual content.
+- **Secrecy and isolation:** moving to encrypted or disappearing-message apps, asking the child to delete chats, discouraging them from telling parents.
+- **Risk assessment:** asking whether the child's parents check their phone, whether they have been abused before, who they trust.
+- **Meeting:** arranging in-person contact, sometimes with transportation, gifts, or threats.
+- **Financial sextortion:** obtaining an intimate image, then demanding money under threat of exposure. This has become a major and growing category.
 
 ### 4.3 Prevalence of online victimization
 
@@ -130,7 +130,7 @@ Financial sextortion is a distinct and fast-growing pattern:
 
 - NCMEC received more than **50,000** reports of financially motivated sextortion in 2025, averaging **137 per day**, up from more than 36,000 in 2024 (NCMEC, 2026).
 - In 2024, NCMEC received nearly 100 financial sextortion reports per day; it was aware of more than **three dozen teenage boys** who died by suicide after being victimized (NCMEC, 2024).
-- Most public reports come from the child victim or a parent — 94% when the relationship is known — which suggests that shame and fear suppress reporting to platforms and police (NCMEC, 2026).
+- Most public reports come from the child victim or a parent (94% when the relationship is known), which suggests that shame and fear suppress reporting to platforms and police (NCMEC, 2026).
 
 Sextortion is not a "grooming" relationship in the traditional sense; it can be a one-session crime. But it uses the same levers: shame, secrecy, threat, and the child's fear of adult consequences.
 
@@ -162,7 +162,7 @@ Warning signs are probabilistic. None proves abuse; none should be treated as a 
 - Secrecy about online contacts, or distress after device use.
 - Self-harm, substance use, or suicidal ideation.
 - Physical signs: pain, bleeding, discharge, bruising in genital or anal areas (requires medical assessment).
-- A sudden change in a previously close relationship with an adult — either clinging or avoidance.
+- A sudden change in a previously close relationship with an adult: either clinging or avoidance.
 
 ### 5.3 In an online context
 
