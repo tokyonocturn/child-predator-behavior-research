@@ -6,6 +6,8 @@ An evidence-based, public research repository on how and why adults sexually abu
 
 **What this is not.** This is not a profile, a risk-assessment instrument, a screening checklist for individuals, or an operational guide. It contains no instructions for evading detection or manipulating children. Descriptions of offender behavior are included only at the level of abstraction needed for recognition and prevention.
 
+**If you are a parent or guardian, start here:** [`PARENT-GUIDE.md`](PARENT-GUIDE.md) is a short, plain-language safeguarding guide covering access mapping, grooming warning signs, digital safety, and how to respond to a disclosure.
+
 ---
 
 ## Bottom line up front
@@ -23,6 +25,7 @@ An evidence-based, public research repository on how and why adults sexually abu
 
 | File | Contents |
 |---|---|
+| [`PARENT-GUIDE.md`](PARENT-GUIDE.md) | Plain-language safeguarding guide for parents and guardians: access mapping, grooming warning signs, digital safety, and disclosure response |
 | [`research/01-victim-selection.md`](research/01-victim-selection.md) | Who is targeted, age and gender patterns, family and supervision factors, offender–victim relationships, and the difference between vulnerability and blame |
 | [`research/02-offender-psychology.md`](research/02-offender-psychology.md) | Motivation, pedophilia vs. offending, Finkelhor's preconditions, pathways models, cognitive distortions, typologies, female and juvenile offenders, recidivism |
 | [`research/03-grooming.md`](research/03-grooming.md) | Grooming models and stages, in-person and online tactics, sextortion, warning signs, and why "nice" is not a safety signal |
