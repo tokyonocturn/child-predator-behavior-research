@@ -79,7 +79,7 @@ These are often described as **implicit theories** — broad schemas about child
 
 ### What is disputed
 
-The **causal status** of cognitive distortions is contested. A 2006 review concluded that "clinical practice with child molesters has run ahead of scientific knowledge," that the nature and role of distortions are confused, and that most research cannot support or refute the causal hypothesis (Marziano et al., 2006). Distortions may be:
+The **causal status** of cognitive distortions is contested. Gannon and Polaschek (2006) concluded that "clinical practice with child molesters has run ahead of scientific knowledge," that the nature and role of distortions are confused, and that most research cannot support or refute the causal hypothesis. Distortions may be:
 
 - **antecedents** that permit offending,
 - **concurrent rationalizations** that reduce dissonance during or after offending, or
@@ -150,9 +150,9 @@ The online offending population is not homogeneous. A useful distinction is betw
 - **Contact-driven online offenders** — people who use online communication to meet children for contact abuse.
 - **Mixed offenders** — people with both CSEM and contact offenses, who tend to present higher risk.
 
-Research on police reports found that contact-driven suspects used more positive rapport, sent unprompted sexual images, and offered gifts or exchanges more often than online-focused suspects (Soldino & Seigfried-Spellar, 2024). A Canadian judicial-decision taxonomy found that "mixed" groomers used more strategies per case and identified more vulnerable victims than in-person or online-only groomers (Chopin et al., 2023).
+Research on police reports found that contact-driven suspects used more positive rapport, sent unprompted sexual images, and offered gifts or exchanges more often than online-focused suspects (Soldino & Seigfried-Spellar, 2024). A Canadian judicial-decision taxonomy found that "mixed" groomers used more strategies per case and identified more vulnerable victims than in-person or online-only groomers (Berens et al., 2023).
 
-Recidivism differs sharply by group. A 2026 meta-analysis of 30 samples (N = 25,978) found that CSEM offenders had a 5.9% any-sexual recidivism rate and a 1.5% contact-sexual recidivism rate after an average five-year follow-up; mixed offenders had an 8.8% contact sexual recidivism rate versus 0.6% for CSEM-exclusive offenders (Baskurt et al., 2026). This is **Established** enough to support differentiated risk management, and it cuts against treating every CSEM consumer as a future contact offender.
+Recidivism differs sharply by group. A 2026 meta-analysis of 30 samples (N = 25,978) found that CSEM offenders had a 5.9% any-sexual recidivism rate and a 1.5% contact-sexual recidivism rate after an average five-year follow-up; mixed offenders had an 8.8% contact sexual recidivism rate versus 0.6% for CSEM-exclusive offenders (meta-analysis of CSEM recidivism, 2026). This is **Established** enough to support differentiated risk management, and it cuts against treating every CSEM consumer as a future contact offender.
 
 **Caution:** official recidivism data underestimate undetected offending, and CSEM-only status is often determined by what was detected, not by what occurred. The low base rate is a population statement, not a guarantee about an individual.
 
@@ -197,9 +197,9 @@ None of these is visible on a driver's license. None supports a demographic prof
 
 Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 
-- Baskurt et al. (2026). Meta-analysis of CSEM recidivism.
+- *A meta-analysis of recidivism rates among individuals who commit CSEM offending* (2026).
+- Berens et al. (2023). A taxonomy of groomer profiles. *Child Abuse & Neglect.*
 - Blanchard et al. (2001); Schaefer et al. (2010), cited in Seto (2018).
-- Chopin et al. (2023). A taxonomy of groomer profiles. *Child Abuse & Neglect.*
 - Cortoni & Hanson (2005); Cortoni (2010); McLeod (2015).
 - Finkelhor (1984). *Child Sexual Abuse: New Theory and Research.*
 - Hanson & Bussière (1998); Hanson & Morton-Bourgon (2004). Meta-analyses of sexual recidivism.
@@ -207,7 +207,7 @@ Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 - Lanning (2010). *Child Molesters: A Behavioral Analysis.*
 - Lussier et al. (2023). Meta-analysis of youth sexual recidivism.
 - Mann, Hanson & Thornton (2010). Risk factors for sexual offending.
-- Marziano, Ward & Gannon (2006). Cognitive distortions in child molesters: a re-examination.
+- Gannon & Polaschek (2006). Cognitive distortions in child molesters: a re-examination. *Clinical Psychology Review.*
 - Seto (2018). *Pedophilia and Sexual Offending Against Children* (2nd ed.).
 - Soldino & Seigfried-Spellar (2024). Contact-driven vs. online-focused suspects.
 - Ward & Beech (2006). An integrated theory of sexual offending.

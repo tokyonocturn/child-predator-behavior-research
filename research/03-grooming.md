@@ -117,7 +117,7 @@ A scoping review of 93 papers found that pre-internet grooming strategies includ
 
 ### 4.3 Prevalence of online victimization
 
-- A 2025 *Lancet Child & Adolescent Health* systematic review and meta-analysis (86 records, 123 studies) estimated past-year prevalence of online child sexual exploitation and abuse at **8.1%** overall, with online solicitation at **12.5%**, non-consensual taking/sharing/exposure to sexual images at **12.6%**, online sexual exploitation at **4.7%**, and sexual extortion at **3.5%** (Fang et al., 2025).
+- A 2025 *Lancet Child & Adolescent Health* systematic review and meta-analysis (86 records, 123 studies) estimated past-year prevalence of online child sexual exploitation and abuse at **8.1%** overall, with online solicitation at **12.5%**, non-consensual taking/sharing/exposure to sexual images at **12.6%**, online sexual exploitation at **4.7%**, and sexual extortion at **3.5%** (Fry et al., 2025).
 - An earlier *Journal of Adolescent Health* meta-analysis found mean prevalence of unwanted online sexual exposure at **20.3%** and online sexual solicitation at **11.5%** (2018).
 - A U.S. national survey estimated lifetime online grooming by adults at **5.4%**, online child sexual abuse at **15.6%**, image-based sexual abuse at **11.0%**, and sextortion at **3.5%** (NIJ, 2022).
 - A 2023 UNH Crimes Against Children Research Center survey found that **one in six** respondents had experienced online child sexual abuse before 18; about **30%** of perpetrators were other juveniles, and about a third of victims did not know the offender's identity (UNH CCRC, 2023).
@@ -233,10 +233,10 @@ In the United States: **Childhelp 1-800-422-4453**, **NCMEC 1-800-THE-LOST**, **
 Full annotations and links are in [`../BIBLIOGRAPHY.md`](../BIBLIOGRAPHY.md).
 
 - Australian National Office for Child Safety. *Grooming.*
-- Chopin et al. (2023). A taxonomy of groomer profiles. *Child Abuse & Neglect.*
+- Berens et al. (2023). A taxonomy of groomer profiles. *Child Abuse & Neglect.*
 - CSA Centre (2021). *The scale and nature of child sexual abuse.*
 - Elliott (2017). Self-regulation model of online grooming.
-- Fang et al. (2025). Prevalence of online child sexual exploitation and abuse: systematic review and meta-analysis. *The Lancet Child & Adolescent Health.*
+- Fry et al. (2025). Prevalence of online child sexual exploitation and abuse: systematic review and meta-analysis. *The Lancet Child & Adolescent Health.*
 - Gubbels et al. (2021). Effective components of school-based prevention. *Clinical Child and Family Psychology Review.*
 - Lu et al. (2023). School-based CSA interventions: systematic review and meta-analysis.
 - NCMEC (2024, 2025, 2026). CyberTipline and sextortion data.
